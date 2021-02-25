@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>fs1.jpg</filename>
+	<path>/Users/gerritmerz/Documents/Coding/sobr-object-detection/data/images/train/fs1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1888</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fs_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1202</xmin>
+			<ymin>432</ymin>
+			<xmax>1820</xmax>
+			<ymax>1121</ymax>
+		</bndbox>
+	</object>
+</annotation>
